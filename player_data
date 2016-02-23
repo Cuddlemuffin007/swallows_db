@@ -1,4 +1,4 @@
-fname,lname,age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+f_name,l_name,age,g,pa,ab,r,h,_2b,_3b,hr,rbi,sb,cs,bb,so,ba,obp,slg,ops,tb,gdp,hbp,sh,sf,ibb
 Nagisa,Arakaki,35,15,24,20,1,4,1,0,0,2,0,0,1,7,.200,.238,.250,.488,5,1,0,3,0,0
 Takahiro,Araki,27,73,196,170,21,43,8,0,2,12,5,3,16,30,.253,.319,.335,.654,57,3,1,8,1,0
 Wladimir,Balentien,30,15,52,43,4,8,2,0,1,6,0,0,9,14,.186,.327,.302,.629,13,1,0,0,0,0

@@ -32,7 +32,7 @@ def update_function(cursor, connection):
                            "'rbi' for runs batted in\n'r' for runs scored\n>> ")
 
     if stat_to_update == 'avg':
-        new_avg = int(input("Please enter updated batting average.\n>> "))
+        new_avg = float(input("Please enter updated batting average.\n>> "))
         cursor.execute("update batting_stats set avg = (%s) where last_name = (%s) and first_name = (%s);",
                        (new_avg, l_name, f_name))
     elif stat_to_update == 'h':
